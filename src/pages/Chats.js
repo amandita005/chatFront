@@ -9,7 +9,7 @@ export default function Chats() {
 
     const navigate = useNavigate(); 
   return (
-    <div> 
+    <div className='row'> 
         <Pessoas> </Pessoas>
     </div>
         
